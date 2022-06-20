@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/mapsFragment"
+        android:title="Lugares"
+        android:icon="@drawable/ic_maps"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/mapsAccountFragment"
+        android:title="Perfil"
+        android:icon="@drawable/ic_account"
+        tools:ignore="HardcodedText" />
+</menu>
